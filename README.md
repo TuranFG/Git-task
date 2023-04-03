@@ -11,7 +11,7 @@
   print('Hello everyone')
 ```
 ##### This is a random picture
-<img src="../unnamed.png">
-<image src="../unnamed.png">
+<img src="./unnamed.png">
+
 
 Please check my new [Github account](https://github.com/TuranFG)
